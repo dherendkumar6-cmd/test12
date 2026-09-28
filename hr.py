@@ -1,8 +1,8 @@
 #create the screen and the turtle
 import turtle
 t =turtle.Turtle()
-t.color("blue")
-t.speed(3)
+t.color("red")
+t.speed(465)
 
 #draw square using a loop 
 for i in range(4):
